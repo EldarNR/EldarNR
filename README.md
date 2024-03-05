@@ -16,7 +16,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldarNR&hide_progress=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldarNR&hide_progress=true)]
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EldarNR)](https://github.com/anuraghazra/github-readme-stats)
