@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github-readme-stats.vercel.app/api?EldarNR=anuraghazra
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?EldarNR=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
