@@ -16,6 +16,8 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 <br>
+  [![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=EldarNR](https://github-readme-stats.vercel.app/api/top-langs/?username=EldarNR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff))](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EldarNR)](https://github.com/anuraghazra/github-readme-stats)
 </div>
