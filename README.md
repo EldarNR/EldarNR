@@ -1,6 +1,7 @@
+<div align="center">
 ### Hi 👋 I'm Eldar, a front-end developer. 👨‍💻
 My Skill Set 
-<div align="center">  
+<div >  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
@@ -15,7 +16,7 @@ My Skill Set
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EldarNR)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 <!--
 **EldarNR/EldarNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
