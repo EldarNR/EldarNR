@@ -16,7 +16,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 <br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&https://github-readme-stats.vercel.app/api/top-langs/?username=EldarNR" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EldarNR&https://github-readme-stats.vercel.app/api/top-langs/?username=EldarNR" align="center" /></div>  
 
 <br/>  
 
