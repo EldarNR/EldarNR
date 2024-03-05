@@ -1,7 +1,7 @@
 <div align="center">
 <h4>Hi 👋 I'm Eldar, a front-end developer. 👨‍💻</h4>
 <h4>My Skill Set </h4>
-  <br/>
+  <br>
 <div >  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
